@@ -1,0 +1,89 @@
+                    /* main_nav */
+.main_nav{
+    background-color: #0dfdb6;
+}
+               
+               /* <!-- banner part--> */
+
+
+.btn-primary:hover {
+    background-color: #5a418f;
+    border-color: #ea4613;
+}
+
+.main_headr{
+    background-image: url("../assets/images/bannerimh.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.text-white-50 {
+    color: #fff !important;
+    font-size: 18px;
+    margin-top: 90px;
+}
+.text-.banner_head_text {
+   
+    color: chocolate;
+}
+.banner_btn {
+    margin-top: 72px;
+    margin-bottom: 184px;
+}
+
+.future_container {
+    background: linear-gradient(to bottom, rgba(131, 236, 222, 0.63) 41%, rgb(209, 186, 84) 100%);
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+
+
+.Pricing_container{
+    background: linear-gradient(to left, #ccffcc 10%, #ccccff 100%);
+}
+
+
+.Testimonials_section{
+    background: linear-gradient(to left, #ffccff 10%, #eaf370 100%);
+}
+.Contact_section{
+    background: linear-gradient(to left, #bfd461 10%, #6f8fd47e 100%);
+
+}
+.icon_all{
+    background-color: rgb(255 223 159 / 85%);
+}
+
+.icons_color{
+    color: #ea4613;
+}
+.btn-primary:disabled, .btn-primary.disabled {
+    color: #880bb1;
+    background-color: #0dfdb6;
+    border-color: #bb0a11;
+}
+
+
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+#features{
+    background-color: #ffffcc;
+}
+
+.card {
+    z-index: inherit;
+    min-width: -49px;
+    color: darkmagenta;
+    background: linear-gradient(to bottom, #ffffcc 41%, #00ffff 100%);
+    background-clip: content-box;
+    border: 5px solid rgb(115 132 230 / 90%);
+    border-radius: 3.25rem;
+}
+.btn-outline-primary {
+    color: #fd0d50;
+    border-color: #7d1523;
+}
+
