@@ -1,0 +1,39 @@
+
+.table_head {
+    text-align: center;
+    color: #44cfc0;
+    background-color:black;
+    margin-bottom: 0px;
+}
+input[type=checkbox], input[type=radio] {
+    margin-left: auto;
+    background-color: #44cfc0;
+}
+
+.table thead th {
+    text-align: center;
+    background-color: yellowgreen;
+    color: saddlebrown;
+    padding: 17px;
+}
+
+img {
+    height: 100px;
+    width: 200px;
+}
+
+.product_disc{
+    line-height: 5px;
+}
+.product_disc h4{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.card {
+    
+    background-color: #2eb3cd70;
+    border: 1px solid hsl(20deg 94% 30%);
+    
+}

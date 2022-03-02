@@ -1,0 +1,31 @@
+
+
+.table_head, h1 {
+    text-align: center;
+    margin-top: 15px;
+    background-color: rgb(143, 178, 211);
+    color: rgb(77, 48, 5);
+    margin-block-end: auto;
+}
+.trable_main_div{
+    margin-top: 0px;
+}
+.main_table{
+    padding: 10px;
+}
+.table_row{
+    text-align: center;
+}
+.table-light{
+    
+    color: black;
+}
+ .table-warning{
+    background-color: #e8ba2c;
+}
+.table-danger{
+    background-color: #e24556;
+}
+.table-info{
+    background-color: #48cce2;
+}
