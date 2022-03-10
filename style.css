@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.full_warpper{
+    width: 100%;
+}
+.container{
+    width: 1175px;
+    margin: auto;
+}
+.clear{
+    clear: both;
+}
+header{
+    width:100%;
+	height:96px;
+}
+.main_nav {
+    margin: 0px 0px 22px 0px;
+    position: fixed;
+    top:0;
+    width: 100%;
+    background: white;
+}
+.logo{
+    width: 30%;
+    font-weight: bold;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    white-space: nowrap;
+    color: #0061f2;
+    padding-right: 2.5rem !important;
+    padding-left: 2.5rem;
+    float: left;
+    margin-top: 10px;
+    
+}
+.nav_manu{
+    width: 70%;
+    margin-right: 2.5rem;
+    padding-bottom: 1.75rem;
+    margin-left: 310px;
+}
+.nav_manu>ul{
+    float: right;
+    list-style: none;
+}
+.nav_manu>ul>li{
+    float: left;
+    padding: 20px
+}
+.buy_now>a{
+    color: #fff;
+    background-color: #0061f2;
+    border-color: #0061f2;
+    margin-left: 0.5rem;
+    font-weight: 500;
+    padding: 13px 19px;
+}
+
+/* banner paer start */
+.sec1{
+    margin-top: 120px;
+}
+
+.banner_left{
+    width:50%;
+	float:left;
+    margin-top: 30px;
+}
+.sec1>.banner_left>h1{
+    font-size: 2.5rem;
+    font-family: Arial,sans-serif;
+    margin-top: 30px;
+}
+.sec1>.banner_left>p{
+    font-size: 1.15rem;
+	font-family: Arial,sans-serif;
+	margin-bottom: 45px;
+    margin-top: 25px;
+}
+.banner_right{
+    width:50%;
+	float:left;
+}
+.Explore{
+    border-radius: 0.35rem;
+    padding: 10px 20px;
+    color: #fff;
+    background: #0061f2;
+	margin-right:10px;
+    float: left;
+}
+.Doct{
+    border-radius: 0.35rem;
+    padding: 10px 20px;
+    color: #0061f2;
+    background: #e1ecfc;
+    width: 108px;
+    float: left;
+}
+/* banner paer end */
+
+
+ /* Landing Pages part & Header Examples part start  */
+.leading_main{
+    background-color: #f2f6fc;
+}
+.leading_main>img{
+    width: 100%;
+}
+.all_head{
+    text-align: center;
+}
+.all_head>.btn{
+    padding: 0.5em 1em;
+    border-radius: 50rem;
+    font-size: 0.75em;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    color: #0061f2;
+}
+.all_head>h2{
+    font-size: 1.4rem;
+    margin-top: 30px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+}
+.all_head>p{
+    color: #7e8599;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.leading_contant{
+    width: 100%;
+    margin-top: 40px;
+}
+.card{
+    width: 31%;
+    float: left;
+    padding: 12px;
+}
+.card>h6{
+    text-align: center;
+    font-size:1.2rem;
+	font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+    margin-bottom: 1rem
+}
+.card_img{
+    width: 100%;
+    border-radius: 0.5rem 
+}
+
+ /* Landing Pages part  & Header Examples part end  */
+
+
+  /* inner part start */
+.Inner_contant{
+    width: 100%;
+}
+ .inner_list{
+    width: 31.33%;
+    float: left;
+    padding: 10px
+ }
+ .inner_list>h4{
+    font-family:'Roboto', Arial;
+	cursor:pointer;
+    padding: 10px;
+ }
+ .inner_list ul{
+	padding: 0px;
+    margin: 0px;
+	box-shadow: 0 .15rem 1.75rem 0 rgba(33,40,50,.15);
+}
+.inner_list>.start-radius{
+	border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.inner_list>.start-radius{
+	border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.inner_list li {
+    list-style: none;
+    padding: 1.1rem 1rem;
+    margin: 0px;
+	color: #212832;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+	font-family:'Roboto', Arial;
+}
+ /* inner part end  */
+
+
+ /* Documentations part start */
+.documantation_main{
+    width: 100%;
+}
+.documantation_contant{
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+}
+.docut_main_con{
+    width: 31%;
+    padding: 10px;
+    float: left;
+    text-align: center;
+}
+
+.docut_main_con>.display_num{
+    font-weight: 700;
+    color: #c5ccd6;
+    font-size: 5rem;
+    line-height: 1.2;
+}
+
+.docut_main_con>h5{
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+}
+
+.docut_main_con>p{
+    font-size: 1.1rem;
+}
+
+.docut_btn{
+    text-align: center;
+}
+.d_btn{
+    font-weight: 500;
+    color: #fff;
+    background-color: #0061f2;
+    border-color: #0061f2;
+    cursor: pointer;
+    border-radius: 0.35rem;
+    padding: 13px;
+    font-size: 14px;
+    margin-top: 50px;
+}
+ /* Documentations part end */
+
+
+
+ /* Footer part start */
+
+ .footer_main{
+     width: 100%;
+     
+ }
+ .footer_main>img{
+     width: 100%;
+ }
+ .footer_part{
+   
+ }
+
+ .footer_div{
+     width: 19%;
+     float: left;
+     
+ }
+ .footer_div>h3{
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+    color: #a7aeb8;
+ }
+ .footer_div>h4 {
+    font-weight: 700;
+    letter-spacing: 0.125em;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    margin-bottom: 1.5rem;
+    color: #a7aeb8;
+ }
+.footer_div>ul{
+list-style: none;
+}
+.footer_div>ul>a{
+    
+}
+.footer_div>ul>a>li{
+    font-weight: 700;
+    letter-spacing: 0.125em;
+    text-transform: uppercase;
+    color: #a7aeb8;
+    font-size: 0.75rem
+}
+ /* Footer part end */
+
+
